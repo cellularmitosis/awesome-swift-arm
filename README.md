@@ -56,8 +56,8 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 # Other community blog posts / articles
 
 * Swift on Raspberry Pi (2015/12/28)
-** http://blog.andrewmadsen.com/post/136137396480/swift-on-raspberry-pi
-** instructions for installing @iAchievedit's packages and writing hello world
+  * http://blog.andrewmadsen.com/post/136137396480/swift-on-raspberry-pi
+  * instructions for installing @iAchievedit's packages and writing hello world
 
 # Relevant swift bugs
 
