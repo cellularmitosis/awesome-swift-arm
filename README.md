@@ -13,7 +13,7 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 * https://twitter.com/hpux735
 * https://github.com/hpux735
 
-## Joe (@iachievedit)
+## Joe Bell (@iachievedit)
 
 * https://twitter.com/iachievedit
 * https://github.com/iachievedit
