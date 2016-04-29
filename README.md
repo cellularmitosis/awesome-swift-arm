@@ -14,6 +14,11 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 * https://twitter.com/hpux735
 * https://github.com/hpux735
 
+### Articles
+
+* Swift available for Beaglebone/RasPi (2015/12/20)
+  * http://www.housedillon.com/?p=2287
+
 ## Joe Bell (@iachievedit)
 
 * https://twitter.com/iachievedit
