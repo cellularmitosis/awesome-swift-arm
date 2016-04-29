@@ -5,7 +5,7 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 
 * "Swift for ARM Systems" from @iachievedit http://dev.iachieved.it/iachievedit/swift-for-arm-systems/
   * Joe's post is a great rallying point for people interested in Swift 3 on ARM
-  * Jenkins CI: http://swift-arm.ddns.net/job/Swift-3.0-ARM/3/
+  * Jenkins CI: http://swift-arm.ddns.net/job/Swift-3.0-ARM
 
 # People
 
