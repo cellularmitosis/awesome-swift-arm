@@ -1,6 +1,11 @@
 # awesome-swift-arm
 Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 
+# Recent Awesomeness
+
+* "Swift for ARM Systems" from @iachievedit http://dev.iachieved.it/iachievedit/swift-for-arm-systems/
+** Joe's post is a great organizing point for people interested in Swift 3 on ARM 
+
 # People
 
 ## William Dillon (@hpux735)
