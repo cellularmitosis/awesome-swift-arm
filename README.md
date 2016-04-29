@@ -58,6 +58,14 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
   * he built swift 2.2 for raspbian/armv6 and published a tarball on dropbox
     * https://www.dropbox.com/s/he47c47bywm10nv/swift-armv6.tgz
 
+## Cameron Perry (@mistercameron)
+
+* https://twitter.com/mistercameron
+
+### Articles
+
+* "Currently, Swift on Raspberry Pi3" http://mistercameron.com/2016/04/currently-swift-on-raspberry-pi3/
+
 # Other community blog posts / articles
 
 * Compiling Swift on Raspberry Pi (2016/3/22)
