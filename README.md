@@ -83,6 +83,16 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 * Building Swift For ARMv6 (2016/5/8)
   * http://saygoodnight.com/2016/05/08/building-swift-for-armv6.html
 
+## Ryan Lovelett (@rlovelett)
+
+* https://twitter.com/rlovelett
+* https://github.com/RLovelett
+
+### Gists
+
+* Build instructions for Ubuntu 16.04 / Raspberry Pi 2
+  * https://gist.github.com/RLovelett/4fc4c43a6511e2d3b40b2a7439c78916#file-worked-md
+
 # Other community blog posts / articles
 
 * Here's my own personal effort at building Swift on ARM: https://github.com/cellularmitosis/swift-build-scripts
