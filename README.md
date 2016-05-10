@@ -118,6 +118,9 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 * 901: Support ARMv6 (original Raspberry Pi), ARMv7 bugfixes
   * https://github.com/apple/swift/pull/901
 
+* 352: Adding support for ARMv6 on linux
+  * https://github.com/apple/swift-corelibs-foundation/pull/352
+
 # Apple's swift CI server:
 
 * https://ci.swift.org/view/Packages/
