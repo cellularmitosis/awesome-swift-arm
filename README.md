@@ -110,6 +110,9 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 * SR-388: Swift REPL fails to launch on ARM
   * https://bugs.swift.org/browse/SR-388
 
+* SR-1412: Cannot compile Foundation on ARM
+  * https://bugs.swift.org/browse/SR-1412
+
 # Relevant pull requests:
 
 * 901: Support ARMv6 (original Raspberry Pi), ARMv7 bugfixes
