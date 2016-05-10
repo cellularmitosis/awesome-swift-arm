@@ -73,6 +73,16 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 * Currently, Swift on Raspberry Pi3 (2016/4/26)
   * http://mistercameron.com/2016/04/currently-swift-on-raspberry-pi3/
 
+# PJ (@pj4533)
+
+* https://twitter.com/pj4533
+* https://github.com/pj4533
+
+### Articles
+
+* Building Swift For ARMv6 (2016/5/8)
+  * http://saygoodnight.com/2016/05/08/building-swift-for-armv6.html
+
 # Other community blog posts / articles
 
 * Here's my own personal effort at building Swift on ARM: https://github.com/cellularmitosis/swift-build-scripts
