@@ -118,6 +118,9 @@ Everything I know about running Swift on ARM (Raspberry Pi, BeagleBone, etc)
 
 # Relevant pull requests:
 
+* 2369: Convert "armv7l" to "armv7" for the architecture component of paths
+  * https://github.com/apple/swift/pull/2369
+ 
 * 901: Support ARMv6 (original Raspberry Pi), ARMv7 bugfixes
   * https://github.com/apple/swift/pull/901
 
